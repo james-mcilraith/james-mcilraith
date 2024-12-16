@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-# My name is James
+# My name is James McIlraith
 
-# I'm a Social Researcher & Software Developer 👋
+## I'm a Social Researcher & Software Developer 👋
 
 Welcome to my corner of the internet! I'm passionate about bringing social science research and technology together to create impactful solutions that benefit  individuals and communities. Whether I'm doing coding, social research, or data analytics my goal is always to create and innovate with empathy and purpose.
 
