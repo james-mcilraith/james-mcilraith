@@ -1,6 +1,6 @@
-# Hi there 👋
+## Hi there 👋
 
-## My name is James
+# My name is James
 
 # I'm a Social Researcher & Software Developer 👋
 
