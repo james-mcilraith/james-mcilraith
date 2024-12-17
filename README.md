@@ -6,9 +6,9 @@
 Welcome to my corner of the internet! I'm passionate about bringing social science research and technology together to create impactful solutions that benefit  individuals and communities. Whether I'm doing coding, social research, or data analytics my goal is always to create and innovate with empathy and purpose.
 
 ## 💻 I've just finished up...
-I've just finhed up learning full stack development and becoming a web developer with the Dev Academy team.
+I've just finished up learning full stack development and becoming a web developer with the Dev Academy team.
 - Technical skills: HTML5, CSS3, JavaScript, Git, Github, Node JS, Auth0, SQLite, TypeScript, React, React Query, Res API
-- Human skills: Addressing conflicts, navigating challenging conversations, and being attuned to the needs of others through engaging discussions on trust, wellbeing, diversity, bias, and other subject
+- Human skills: Addressing conflicts, navigating challenging conversations, and being attuned to the needs of others through engaging discussions on trust, wellbeing, diversity, bias, and other subjects.
 
 ## 🌏 I've listed some projects...
 I've listed some of the cool working projects that we completed at Dev Academy. Thsi includes group projects PieStar and the Troll Calculator, to individual work on Dreamfest and WorldWide Routing. An my personal favourite, My-fullstack-collection, which was deployed on Dokku. Check it out: [My tree collection](https://james-roa2024-my-fullstack-collection.devacademy.nz/).
