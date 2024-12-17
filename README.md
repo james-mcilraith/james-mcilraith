@@ -11,7 +11,7 @@ I've just finished up learning full stack development and becoming a web develop
 - Human skills: Addressing conflicts, navigating challenging conversations, and being attuned to the needs of others through engaging discussions on trust, wellbeing, diversity, bias, and other subjects.
 
 ## 🌏 I've listed some projects...
-I've listed some of the cool working projects that we completed at Dev Academy. Thsi includes group projects PieStar and the Troll Calculator, to individual work on Dreamfest and WorldWide Routing. An my personal favourite, My-fullstack-collection, which was deployed on Dokku. Check it out: [My tree collection](https://james-roa2024-my-fullstack-collection.devacademy.nz/).
+I've listed some of the cool working projects that we completed at Dev Academy. Thsi includes group projects PieStar and the Troll Calculator and individual work on Dreamfest and WorldWide Routing. And my personal favourite, My fullstack collection, which was deployed on Dokku. Check it out: [My tree collection](https://james-roa2024-my-fullstack-collection.devacademy.nz/).
 
 ## 🔭 I’m currently working on...
 - Building data-driven applications that bridge the gap between social research and software utilisation.
